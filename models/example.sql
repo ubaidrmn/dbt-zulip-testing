@@ -1,1 +1,2 @@
-select 1 as test_col
+select * frm some_table
+
