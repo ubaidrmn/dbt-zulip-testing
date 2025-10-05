@@ -1,1 +1,1 @@
-select 1 as test_col
+select 1 frm test_col
